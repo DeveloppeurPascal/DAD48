@@ -2,7 +2,11 @@
 
 [This page in English.](README.md)
 
-Codes source du jeu vidéo DAD48 développé avec FireMonkey sous Delphi pendant la game jam Ludum Dare 48.
+DAD48 a été créé à l'occasion de la game jam Ludum Dare 48 avec pour thème "deeper and deeper". Développé sous forme d'un projet FireMonkey sous Delphi il a été publié sur Windows, Mac, iOS et Android.
+
+Suite à la sortie de Gamolf FMX Game Starter Kit tous mes jeux basculent progressivement dessus. C'est l'occasion pour DAD48 de subir une refonte de la partie graphique avec l'utilisation de SVG à la place des bitmaps et surtout de bénéficier des évolutions des versions récentes de Delphi en se servant du clavier, de la souris, des doigts et des contrôleurs de jeu pour jouer selon les appareils utilisés.
+
+La musique de fond est de Ginny Culp. Les effets sonores proviennent de The Game Creator. Les éléments graphiques du jeu sont sous licence Adobe Stock et ont été créés par différents dessinateurs.
 
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
 
